@@ -1,0 +1,9 @@
+[
+  { "id": "1", "name": "000001.jpg", "url": "./photos/000001.jpg" },
+  { "id": "2", "name": "000002.jpg", "url": "./photos/000002.jpg" },
+  { "id": "3", "name": "000003.jpg", "url": "./photos/000003.jpg" }
+  { "id": "4", "name": "000004.jpg", "url": "./photos/000004.jpg" }
+  { "id": "5", "name": "000005.jpg", "url": "./photos/000005.jpg" }
+  { "id": "6", "name": "000006.jpg", "url": "./photos/000006.jpg" }
+  { "id": "7", "name": "000007.jpg", "url": "./photos/000007.jpg" }
+]

@@ -17,7 +17,8 @@ export default function App() {
   useEffect(() => {
     const fetchPhotos = async () => {
       try {
-        const response = await fetch('/api/photos');
+        // Fetch the static manifest from the public folder
+        const response = await fetch('./photos.json');
         const data = await response.json();
         setImages(data);
       } catch (error) {

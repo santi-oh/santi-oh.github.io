@@ -1,0 +1,6 @@
+{
+  "name": "Z-A Photo Grid",
+  "description": "A responsive 3-column photo gallery with alphabetical sorting (Z-A), lazy loading, and a full-screen modal viewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

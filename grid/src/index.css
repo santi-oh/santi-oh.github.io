@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Georgia", serif;
+  --font-mono: "Courier New", Courier, monospace;
+}
+
+@layer base {
+  body {
+    @apply bg-[#0d0d0d] text-[#e0e0e0] font-serif;
+  }
+}
+
+@layer components {
+  .meta-info {
+    @apply font-mono text-[11px] uppercase tracking-[2px] text-[#888];
+  }
+
+  .active-sort {
+    @apply text-white underline underline-offset-4;
+  }
+
+  .image-card-label {
+    @apply absolute bottom-3 left-3 bg-black/70 px-2 py-1 font-mono text-[10px] text-white z-10;
+  }
+}

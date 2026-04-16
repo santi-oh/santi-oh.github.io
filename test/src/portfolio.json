@@ -6,11 +6,11 @@
       "subtitle": "Reimagined architecture",
       "secondSubtitle": "2017–ongoing",
       "mainCopy": "Adaptations is a graphic collection of unconventional buildings found during city explorations around the world. It focuses on structures that stand out from their surroundings due to particular architectural details. The unexpected discovery of these buildings, apparently blending in with the city, inspired me to document, redraw and reinterpret them as objects isolated from their original contexts, thus enhancing their expressive capability. The images were created using the exact location and original orientation of each building. The light on each structure corresponds to a given time on a set date.",
-      "thumbnail": "images/thumbs/Adapt_1.gif",
+      "thumbnail": "public/thumbs/Adapt_1.gif",
       "images": [
         [
-          { "url": "images/thumbs/Adapt_1.gif", "caption": "Series 1 portrays buildings found since 2017 in cities including Madrid, Barcelona, New York and Vienna. It was completed during the first lockdown in 2020. The lighting was set for June 21, 2020." },
-          { "url": "images/thumbs/Adapt_2.gif", "caption": "Series 2 focuses on churches in Quito, London and New York. It was produced in June 2022 and exhibited in Quito, Ecuador throughout July. The lighting was set for February 22, 2022." }
+          { "url": "public/thumbs/Adapt_1.gif", "caption": "Series 1 portrays buildings found since 2017 in cities including Madrid, Barcelona, New York and Vienna. It was completed during the first lockdown in 2020. The lighting was set for June 21, 2020." },
+          { "url": "public/thumbs/Adapt_2.gif", "caption": "Series 2 focuses on churches in Quito, London and New York. It was produced in June 2022 and exhibited in Quito, Ecuador throughout July. The lighting was set for February 22, 2022." }
         ]
       ]
     },
@@ -20,11 +20,11 @@
       "subtitle": "Reimagined architecture",
       "secondSubtitle": "2017–ongoing",
       "mainCopy": "Adaptations is a graphic collection of unconventional buildings found during city explorations around the world. It focuses on structures that stand out from their surroundings due to particular architectural details. The unexpected discovery of these buildings, apparently blending in with the city, inspired me to document, redraw and reinterpret them as objects isolated from their original contexts, thus enhancing their expressive capability. The images were created using the exact location and original orientation of each building. The light on each structure corresponds to a given time on a set date.",
-      "thumbnail": "images/thumbs/Adapt_2.gif",
+      "thumbnail": "public/thumbs/Adapt_2.gif",
       "images": [
         [
-          { "url": "images/thumbs/Adapt_1.gif", "caption": "Series 1 portrays buildings found since 2017 in cities including Madrid, Barcelona, New York and Vienna. It was completed during the first lockdown in 2020. The lighting was set for June 21, 2020." },
-          { "url": "images/thumbs/Adapt_2.gif", "caption": "Series 2 focuses on churches in Quito, London and New York. It was produced in June 2022 and exhibited in Quito, Ecuador throughout July. The lighting was set for February 22, 2022." }
+          { "url": "public/thumbs/Adapt_1.gif", "caption": "Series 1 portrays buildings found since 2017 in cities including Madrid, Barcelona, New York and Vienna. It was completed during the first lockdown in 2020. The lighting was set for June 21, 2020." },
+          { "url": "public/thumbs/Adapt_2.gif", "caption": "Series 2 focuses on churches in Quito, London and New York. It was produced in June 2022 and exhibited in Quito, Ecuador throughout July. The lighting was set for February 22, 2022." }
         ]
       ]
     },
@@ -34,10 +34,10 @@
       "subtitle": "d",
       "secondSubtitle": "2021",
       "mainCopy": "Store fronts of Barcelona.",
-      "thumbnail": "images/thumbs/Persianas.gif",
+      "thumbnail": "public/thumbs/Persianas.gif",
       "images": [
         [
-          { "url": "images/thumbs/Persianas.gif", "caption": "Persianas" }
+          { "url": "public/thumbs/Persianas.gif", "caption": "Persianas" }
         ]
       ]
     },
@@ -47,10 +47,10 @@
       "subtitle": "Street clothing",
       "secondSubtitle": "2011–ongoing",
       "mainCopy": "Stranded is a photo series about clothing abandoned in public spaces. The images hint at speculative urban tales and prompt the viewer to question the origin of these garments and the fate of their owners. The series tries to reconstruct narratives based on how the objects interact with their surroundings. Each image prompts the viewer to question who the previous owner could have been and the circumstances in which they were separated from their belongings. All these personal item are portrayed exactly as they were found.",
-      "thumbnail": "images/thumbs/Stranded.gif",
+      "thumbnail": "public/thumbs/Stranded.gif",
       "images": [
         [
-          { "url": "images/thumbs/Stranded.gif", "caption": "" }
+          { "url": "public/thumbs/Stranded.gif", "caption": "" }
         ]
       ]
     },
@@ -60,10 +60,10 @@
       "subtitle": "Yum",
       "secondSubtitle": "2018–ongoing",
       "mainCopy": "Collaborative project Well That Was Good was conceived as a response to foodporn. Instead of portraying beautifully staged meals, it focuses on the experience itself by displaying the aftermath—empty dishes in their original settings—thus inviting the viewer to fill in the gaps and eventually give into their curiosity & visit the restaurants.",
-      "thumbnail": "images/thumbs/WTWG.gif",
+      "thumbnail": "public/thumbs/WTWG.gif",
       "images": [
         [
-          { "url": "images/thumbs/WTWG.gif", "caption": "" }
+          { "url": "public/thumbs/WTWG.gif", "caption": "" }
         ]
       ]
     },

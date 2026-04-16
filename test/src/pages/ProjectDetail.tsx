@@ -41,11 +41,11 @@ const ProjectDetail: React.FC = () => {
           >
             {row.map((image, imgIndex) => (
               <div key={imgIndex} className="space-y-4">
-                <div className="aspect-[3/2] overflow-hidden bg-brand-accent rounded-[4px]">
+                <div className="overflow-hidden bg-brand-accent rounded-[4px]">
                   <img
                     src={image.url}
                     alt={`${project.title} - ${imgIndex}`}
-                    className="w-full h-full object-cover opacity-90"
+                    className="w-full h-auto opacity-90 block"
                     referrerPolicy="no-referrer"
                   />
                 </div>

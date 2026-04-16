@@ -15,29 +15,6 @@ const About: React.FC = () => {
           </p>
         </div>
       </div>
-
-/*      
-      <div className="space-y-16">
-        <div className="w-full md:w-2/3 aspect-[3/2] overflow-hidden bg-brand-accent rounded-[4px]">
-          <img
-            src="https://picsum.photos/seed/studio/800/1200"
-            alt="Studio space"
-            className="w-full h-full object-cover opacity-90"
-            referrerPolicy="no-referrer"
-          />
-        </div>
-*/        
-/*
-        <div className="grid md:grid-cols-2 gap-12 pt-8">
-          <div>
-            <h3 className="text-sm uppercase tracking-widest opacity-60 mb-4">Contact</h3>
-            <p className="text-lg font-light">hello@architecturalportfolio.com</p>
-            <p className="text-lg font-light">+1 (555) 123-4567</p>
-          </div>
-          
-        </div>
-*/
-      </div>
     </div>
   );
 };

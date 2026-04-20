@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Jost", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Mukta", serif;
+  
+  --color-brand-bg: #222255;
+  --color-brand-accent: rgba(255, 255, 255, 0.15);
+  --color-brand-line: rgba(255, 255, 255, 0.1);
+}
+
+@layer base {
+  body {
+    @apply bg-brand-bg text-white font-sans antialiased font-light;
+  }
+
+  h1, h2, h3 {
+    @apply font-sans tracking-tight;
+  }
+}
+
+.page-transition {
+  @apply min-h-screen flex flex-col pt-16 pb-16 px-6 md:px-12;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-white/20 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-white/40;
+}

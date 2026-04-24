@@ -66,7 +66,7 @@
     "id": "368",
     "name": "000368.jpg",
     "url": "./photos/000368.jpg",
-    "text": "he Honourable Pauline Astor #sargent #sargentandfashion #tatebritain"
+    "text": "The Honourable Pauline Astor #sargent #sargentandfashion #tatebritain"
   },
   {
     "id": "367",
@@ -683,12 +683,14 @@
   {
     "id": "247",
     "name": "000247.jpg",
-    "url": "./photos/000247.jpg"
+    "url": "./photos/000247.jpg",
+    "text": "🇯🇵 Tokyo"
   },
   {
     "id": "246",
     "name": "000246.jpg",
-    "url": "./photos/000246.jpg"
+    "url": "./photos/000246.jpg",
+    "text": "🇫🇷 Groix"
   },
   {
     "id": "245",
@@ -699,14 +701,12 @@
   {
     "id": "244",
     "name": "000244.jpg",
-    "url": "./photos/000244.jpg",
-    "text": "🇫🇷 Groix"
+    "url": "./photos/000244.jpg"
   },
   {
     "id": "243",
     "name": "000243.jpg",
-    "url": "./photos/000243.jpg",
-    "text": "🇯🇵 Tokyo"
+    "url": "./photos/000243.jpg"
   },
   {
     "id": "242",

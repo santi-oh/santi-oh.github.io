@@ -1,0 +1,252 @@
+{
+  "projects": [
+    {
+      "id": "from0to0",
+      "images": [
+        [
+          {
+            "caption": "",
+            "url": "images/projects/from0to0/1.jpg"
+          },
+          {
+            "caption": "",
+            "url": "images/projects/from0to0/2.jpg"
+          }
+        ],
+        [
+          {
+            "caption": "",
+            "url": "images/projects/from0to0/3.jpg"
+          },
+          {
+            "caption": "",
+            "url": "images/projects/from0to0/4.jpg"
+          }
+        ]
+      ],
+      "mainCopy": "From 0º to 0º is a photo series revolving around classic cars spotted in my native neighbourhood of La Floresta (Quito – Ecuador) and Hackney (London – UK), my home in recent years. \n\nI’ve lived in London longer than in Quito. With its unpredictability, 2020 prompted me to question my connection to Ecuador and my degree of Latinidad. Travelling to Ecuador in 2021 and 2022 for 12 months in total—the longest trips back since moving out in 2004—revealed a regained sense of belonging as well as a difficulty to fit in; an unexpected joy at rediscovering forgotten experiences and a certain discomfort by being away from the place I’ve called home more recently. \n\nLa Floresta and Hackney are trendy neighbourhoods that have much in common and are also unique. During both stays in Quito, I snapped several classic cars in their local backdrops. When returning to London, I noticed surprisingly similar situations in Hackney. Whilst aiming for balance, this series questions identity and the sense of belonging; it explores the parallels between both homes by highlighting similarities, celebrating uniqueness and challenging stereotypes. \n\nThe title is a play on words on 0 to 100 km/h, a common performance measure for automotive acceleration, while referring to the Equator and the Greenwich Meridian—latitude 0º and longitude 0º respectively.",
+      "secondSubtitle": "2026",
+      "subtitle": "Identity & Belonging",
+      "thumbnail": "images/thumbs/from0to0.gif",
+      "title": "From 0º to 0º"
+    },
+    {
+      "id": "adaptations",
+      "images": [
+        [
+          {
+            "caption": "Series 1 portrays buildings found since 2017 in cities including Madrid, Barcelona, New York and Vienna. It was completed during the first lockdown in 2020. The lighting was set for June 21, 2020.",
+            "url": "images/thumbs/Adapt_1.gif"
+          },
+          {
+            "caption": "Series 2 focuses on churches in Quito, London and New York. It was produced in June 2022 and exhibited in Quito, Ecuador throughout July. The lighting was set for February 22, 2022.",
+            "url": "images/thumbs/Adapt_2.gif"
+          }
+        ]
+      ],
+      "mainCopy": "Adaptations is a graphic collection of unconventional buildings found during city explorations around the world. It focuses on structures that stand out from their surroundings due to particular architectural details. The unexpected discovery of these buildings, apparently blending in with the city, inspired me to document, redraw and reinterpret them as objects isolated from their original contexts, thus enhancing their expressive capability. The images were created using the exact location and original orientation of each building. The light on each structure corresponds to a given time on a set date.",
+      "secondSubtitle": "2017–ongoing",
+      "subtitle": "Reimagined Architecture",
+      "thumbnail": "images/thumbs/Adapt_1.gif",
+      "title": "Adaptations"
+    },
+    {
+      "id": "adaptations-2",
+      "images": [
+        [
+          {
+            "caption": "Series 1 portrays buildings found since 2017 in cities including Madrid, Barcelona, New York and Vienna. It was completed during the first lockdown in 2020. The lighting was set for June 21, 2020.",
+            "url": "images/thumbs/Adapt_1.gif"
+          },
+          {
+            "caption": "Series 2 focuses on churches in Quito, London and New York. It was produced in June 2022 and exhibited in Quito, Ecuador throughout July. The lighting was set for February 22, 2022.",
+            "url": "images/thumbs/Adapt_2.gif"
+          }
+        ]
+      ],
+      "mainCopy": "Adaptations is a graphic collection of unconventional buildings found during city explorations around the world. It focuses on structures that stand out from their surroundings due to particular architectural details. The unexpected discovery of these buildings, apparently blending in with the city, inspired me to document, redraw and reinterpret them as objects isolated from their original contexts, thus enhancing their expressive capability. The images were created using the exact location and original orientation of each building. The light on each structure corresponds to a given time on a set date.",
+      "secondSubtitle": "2017–ongoing",
+      "subtitle": "Reimagined Architecture",
+      "thumbnail": "images/thumbs/Adapt_2.gif",
+      "title": "Adaptations"
+    },
+    {
+      "id": "rejasBCN",
+      "images": [
+        [
+          { "url": "images/projects/persianas/Persiana 1 Detail.jpg" },
+          { "url": "images/projects/persianas/Persiana 1 Illustration - Varilla_Aros.jpg" },
+          { "url": "images/projects/persianas/Persiana 1 Pictures.jpg" },
+          { "url": "images/projects/persianas/Persiana 2 Detail.jpg" },
+          { "url": "images/projects/persianas/Persiana 2 Illustration - Tubular_Hexagonos.jpg" },
+          { "url": "images/projects/persianas/Persiana 2 Pictures.jpg" },
+          { "url": "images/projects/persianas/Persiana 3 Detail.jpg" },
+          { "url": "images/projects/persianas/Persiana 3 Illustration - Tubular_Estrella.jpg" },
+          { "url": "images/projects/persianas/Persiana 3 Pictures.jpg" },
+          { "url": "images/projects/persianas/Persiana 4 Detail.jpg" },
+          { "url": "images/projects/persianas/Persiana 4 Illustration - Varilla_Concha.jpg" },
+          { "url": "images/projects/persianas/Persiana 4 Pictures.jpg" },
+          { "url": "images/projects/persianas/Persiana 5 Detail.jpg" },
+          { "url": "images/projects/persianas/Persiana 5 Illustration - Varilla_Rombos.jpg" },
+          { "url": "images/projects/persianas/Persiana 5 Pictures.jpg" },
+          { "url": "images/projects/persianas/Persiana 6 Detail.jpg" },
+          { "url": "images/projects/persianas/Persiana 6 Illustration - Tubular_Cuadrados.jpg" },
+          { "url": "images/projects/persianas/Persiana 6 Pictures.jpg" },
+          { "url": "images/projects/persianas/Persiana 7 Detail.jpg" },
+          { "url": "images/projects/persianas/Persiana 7 Illustration - Tubular_Flor.jpg" },
+          { "url": "images/projects/persianas/Persiana 7 Pictures.jpg" },
+          { "url": "images/projects/persianas/Persiana 8 Detail.jpg" },
+          { "url": "images/projects/persianas/Persiana 8 Illustration - Tubular_Diamante.jpg" },
+          { "url": "images/projects/persianas/Persiana 8 Pictures.jpg" },
+          { "url": "images/projects/persianas/Persiana 9 Detail.jpg" },
+          { "url": "images/projects/persianas/Persiana 9 Illustration - Lamina de ventana_Rectangulos.jpg" },
+          { "url": "images/projects/persianas/Persiana 9 Pictures.jpg" },
+          { "url": "images/projects/persianas/Persiana 10 Detail.jpg" },
+          { "url": "images/projects/persianas/Persiana 10 Illustration - Flechas.jpg" },
+          { "url": "images/projects/persianas/Persiana 10 Pictures.jpg" },
+          { "url": "images/projects/persianas/Persiana 11 Detail.jpg" },
+          { "url": "images/projects/persianas/Persiana 11 Illustration - Ondulada.jpg" },
+          { "url": "images/projects/persianas/Persiana 11 Pictures.jpg" },
+          { "url": "images/projects/persianas/Persiana 12 Detail.jpg" },
+          { "url": "images/projects/persianas/Persiana 12 Illustration - Lamina de ventana_Parrilla.jpg" },
+          { "url": "images/projects/persianas/Persiana 12 Pictures.jpg" }
+        ]
+      ],
+      "mainCopy": "During a 6-week stay in Barcelona, I kept stumbling upon interesting store fronts. Some of them were common designs found across the city and elsewhere in the world, but others seemed more artisanal. I aimed to document these through photography and illustration.",
+      "secondSubtitle": "2021",
+      "subtitle": "Artisanal Store Fronts",
+      "thumbnail": "images/thumbs/Persianas.gif",
+      "title": "Rejas de Barcelona"
+    },
+    {
+      "id": "stranded",
+      "images": [
+        [
+          {
+            "caption": "Selection of pictures from this series.",
+            "url": "images/thumbs/Stranded.gif",
+            "width": "half"
+          }
+        ]
+      ],
+      "mainCopy": "Stranded is a photo series about clothing abandoned in public spaces. The images hint at speculative urban tales and prompt the viewer to question the origin of these garments and the fate of their owners. The series tries to reconstruct narratives based on how the objects interact with their surroundings. Each image prompts the viewer to question who the previous owner could have been and the circumstances in which they were separated from their belongings. All these personal item are portrayed exactly as they were found.",
+      "secondSubtitle": "2011–ongoing",
+      "subtitle": "Street clothing",
+      "thumbnail": "images/thumbs/Stranded.gif",
+      "title": "Stranded Series"
+    },
+    {
+      "id": "wtwg",
+      "images": [
+        [
+          {
+            "caption": "Selection of pictures from this series.",
+            "url": "images/thumbs/WTWG.gif",
+            "width": "half"
+          }
+        ]
+      ],
+      "mainCopy": "Collaborative project Well That Was Good was conceived as a response to foodporn. Instead of portraying beautifully staged meals, it focuses on the experience itself by displaying the aftermath—empty dishes in their original settings—thus inviting the viewer to fill in the gaps and eventually give into their curiosity & visit the restaurants.",
+      "secondSubtitle": "2018–ongoing",
+      "subtitle": "Yum",
+      "thumbnail": "images/thumbs/WTWG.gif",
+      "title": "Well That Was Good"
+    },
+    {
+      "id": "conversation",
+      "images": [
+        [
+          {
+            "caption": "Selection of pictures from this series.",
+            "url": "images/thumbs/CT.gif",
+            "width": "half"
+          }
+        ]
+      ],
+      "mainCopy": "This series documents close to one hundred coffee breaks taking place at The Shed cafe in Haggerston, London between January and July 2018. It relies on the malleable nature of the wet coffee stirrers and plays with the light at The Shed to reveal specific details through the shadows cast by the three dimensional forms. Every piece took shape alongside conversations with friends and colleagues. As such, each one is a token of these relationships and a witness of how they evolved. As a whole, the collection is a reinterpretation of these conversations and their influence over time.",
+      "secondSubtitle": "January 2018 - July 2018",
+      "subtitle": "The Shape of Habits",
+      "thumbnail": "images/thumbs/CT.gif",
+      "title": "Conversation Tokens"
+    },
+    {
+      "id": "thames",
+      "images": [
+        [
+          {
+            "caption": "Found bricks",
+            "url": "images/projects/thames/bricks.jpg",
+            "width": "half"
+          }
+        ],
+        [
+          {
+            "caption": "Reconstructed wall",
+            "url": "images/thumbs/Thames_Bricks.gif"
+          }
+        ]
+      ],
+      "mainCopy": "The influence of the tide is very visible on the river Thames. Every day, the water level varies up to 6m. During low tide, parts of the river bed appear. In certain areas, a great number of debris can be found, especially bricks. \n\nThames Bricks was a project done in collaboration with Mexican designer Renata Fenton. The aim was to recover as many bricks as possible during low tide and repurpose them before low tide. We explored different constructions that would give a purpose to this building material, only to strip them off this new purpose when the tide would go back up, highlighting the cyclical nature of tides.",
+      "secondSubtitle": "2012",
+      "subtitle": "Reconstructing / Deconstructing",
+      "thumbnail": "images/thumbs/Thames_Bricks.gif",
+      "title": "Thames Bricks"
+    }
+  ],
+
+  "homeRows": [
+    {
+      "items": [
+        {
+          "flex": 2,
+          "projectId": "from0to0"
+        },
+        {
+          "flex": 1,
+          "projectId": "adaptations-2"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "flex": 1,
+          "projectId": "rejasBCN"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "flex": 2,
+          "projectId": "stranded"
+        },
+        {
+          "flex": 1,
+          "projectId": "wtwg"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "flex": 2,
+          "imageUrl": "images/thumbs/Potato.gif",
+          "title": "Potatos from my garden"
+        },
+        {
+          "flex": 1,
+          "projectId": "conversation"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "flex": 1,
+          "projectId": "thames"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "projects": [
+    {
+      "id": "test",
+      "title": "title",
+      "subtitle": "subtitle",
+      "secondSubtitle": "date",
+      "tags": [""],
+      "thumbnail": "images/thumbs/image.jpg",
+      "mainCopy": "main text",
+      "images": [
+        [
+          {
+            
+            "type": "video",
+            "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+            "caption": "Full width sample video (75% default)",
+            "width": "75%"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "loop-4",
+      "title": "Belvedere urban lights",
+      "subtitle": "Loop.pH",
+      "secondSubtitle": "December 2012",
+      "tags": ["Loop.pH"],
+      "thumbnail": "images/thumbs/loop_4.jpg",
+      "mainCopy": "Together with structural engineers Ramboll, we created the huge centrepiece of the electronic take-over of Gansevoort Plaza for the launch of Belvedere’s new (RED) brand. We designed an ephemeral tree canopy over 6 meters high with hundreds of composite carbon fibre arches and thousands of LEDs. In a highly elaborate display, the brand’s trees were mapped onto high performance carbon rods able to sway in the New York breeze.\n\nI participated in the design of the overall surface drawn by the carbon rods as well as mapping the trees and the design of the bases. I also generated production documents and drawings used to produce the rods and identify them during the two-day install process.\n\nThis project was done in the context of my work with the Spatial Laboratory Loop.pH as part of a small multidisciplanary team. We designed and installed large scale installations for clients such as EDF, Kensington Palace, Lille3000, BMW and the ICA. My role was to design custom digital tools to enhance and optimise the experimental process by which each installation was made. As the projects evolved, I was also involved in the design, construction and installation of the displays.",
+      "images": [
+        [
+          { "url": "images/work/loop/nyc_1.jpg" },
+          { "url": "images/work/loop/nyc_2.jpg" },
+          { "url": "images/work/loop/nyc_3.jpg" },
+          { "url": "images/work/loop/nyc_4.jpg" },
+          { "url": "images/work/loop/nyc_5.jpg" },
+          { "url": "images/work/loop/nyc_6.jpg" },
+          { "url": "images/work/loop/nyc_7.jpg" },
+          { "url": "images/work/loop/nyc_8.jpg" },
+          { "url": "images/work/loop/nyc_9.jpg" },
+          { "url": "images/work/loop/nyc_10.jpg" },
+          { "url": "images/work/loop/nyc_11.jpg" },
+          { "url": "images/work/loop/nyc_12.jpg" },
+          { "url": "images/work/loop/nyc_13.jpg" },
+          { "url": "images/work/loop/nyc_14.jpg" },
+          { "url": "images/work/loop/nyc_15.jpg" }
+        ]
+      ]
+    },    
+    {
+      "id": "loop-3",
+      "title": "Lille Fantastic",
+      "subtitle": "Loop.pH",
+      "secondSubtitle": "2012",
+      "tags": ["Loop.pH"],
+      "thumbnail": "images/thumbs/loop_3.jpg",
+      "mainCopy": "This was a year-long project for EDF and Lille3000 in France. It consisted of installations in several trees in a local park and an energy pavilion for EDF where design events and workshops were hosted. I was involved in this project from the early concept stages until the installation days and the opening. \n\nI worked on the overall pavilion design including the shape and interior elements (furniture, algae curtain, polygon fruit). I also provided general production information concerning the tree installations after modelling both the pieces and the trees.\n\nThis project was done in the context of my work with the Spatial Laboratory Loop.pH as part of a small multidisciplanary team. We designed and installed large scale installations for clients such as EDF, Kensington Palace, Lille3000, BMW and the ICA. My role was to design custom digital tools to enhance and optimise the experimental process by which each installation was made. As the projects evolved, I was also involved in the design, construction and installation of the displays.",
+      "images": [
+        [
+          { "url": "images/work/loop/lille_1.jpg" },
+          { "url": "images/work/loop/lille_2.jpg" },
+          { "url": "images/work/loop/lille_3.jpg" },
+          { "url": "images/work/loop/lille_4.jpg" },
+          { "url": "images/work/loop/lille_5.jpg" },
+          { "url": "images/work/loop/lille_6.jpg" },
+          { "url": "images/work/loop/lille_7.jpg" },
+          { "url": "images/work/loop/lille_8.jpg" },
+          { "url": "images/work/loop/lille_9.jpg" }
+        ]
+      ]
+    },
+    {
+      "id": "loop-2",
+      "title": "BMW Art Cars",
+      "subtitle": "Loop.pH",
+      "secondSubtitle": "July 2012",
+      "tags": ["Loop.pH"],
+      "thumbnail": "images/thumbs/loop_2.jpg",
+      "mainCopy": "This was an exhibition design project for BMW and the ICA. It displayed 15 Art Cars in a 7-floor carpark in east London in July 2012. \n\nMy role was to work closely with the artists and rest of the creative team to experiment with ruled surfaces made from stretched elastic. Because of the size of the installation, the custom parametric tools created with Grasshopper were invaluable when designing the different configurations and deciding on the layout of the ribbons in the space. It also allowed us to pre-visualise the installation by mapping out the surfaces on a 3D model of the whole building (modelled in Solidworks). \n\nThis project was done in the context of my work with the Spatial Laboratory Loop.pH as part of a small multidisciplanary team. We designed and installed large scale installations for clients such as EDF, Kensington Palace, Lille3000, BMW and the ICA. My role was to design custom digital tools to enhance and optimise the experimental process by which each installation was made. As the projects evolved, I was also involved in the design, construction and installation of the displays.",
+      "images": [
+        [
+          { "url": "images/work/loop/ica_car_1.jpg" }
+        ],
+        [
+          { "url": "images/work/loop/ica_car_2.jpg" },
+          { "url": "images/work/loop/ica_car_3.jpg" },
+          { "url": "images/work/loop/ica_car_4.jpg" }
+        ],
+        [
+          {
+            "caption": "Corner detail during the day.",
+            "url": "images/work/loop/ica_corner_day.jpg"
+          },
+          {
+            "caption": "Corner detail during at night.",
+            "url": "images/work/loop/ica_corner_night.jpg"
+          }
+        ],        
+        [
+          {
+            "caption": "Car park: building",
+            "url": "images/work/loop/ica_building_out.jpg"
+          },
+          {
+            "caption": "Car park: inside detail",
+            "url": "images/work/loop/ica_building_in.jpg"
+          }
+        ],        
+        [
+          { "url": "images/work/loop/ica_1.jpg" },
+          { "url": "images/work/loop/ica_2.jpg" },
+          { "url": "images/work/loop/ica_3.jpg" },
+          { "url": "images/work/loop/ica_4.jpg" },
+          { "url": "images/work/loop/ica_5.jpg" },
+          { "url": "images/work/loop/ica_6.jpg" },
+          { "url": "images/work/loop/ica_7.jpg" },
+          { "url": "images/work/loop/ica_8.jpg" },
+          { "url": "images/work/loop/ica_9.jpg" },
+          { "url": "images/work/loop/ica_10.jpg" },
+          { "url": "images/work/loop/ica_11.jpg" },
+          { "url": "images/work/loop/ica_12.jpg" }
+        ]
+      ]
+    },
+    {
+      "id": "loop-1",
+      "title": "Kensington Palace",
+      "subtitle": "Loop.pH",
+      "secondSubtitle": "December 2011",
+      "tags": ["Loop.pH"],
+      "thumbnail": "images/thumbs/loop_1.jpg",
+      "mainCopy": "This project consisted of designing and building a lace umbrella for the entrance of the then newly opened Kensington Palace in London. The surface of the laced EL wire structure was modelled using Grasshopper. This allowed us to preview different lace designs, thus reducing the number of iterations in this highly experimental process. \n\nFlattened sections of the model were also printed and were used as guides by the lace makers. \n\nThis project was done in the context of my work with the Spatial Laboratory Loop.pH as part of a small multidisciplanary team. We designed and installed large scale installations for clients such as EDF, Kensington Palace, Lille3000, BMW and the ICA. My role was to design custom digital tools to enhance and optimise the experimental process by which each installation was made. As the projects evolved, I was also involved in the design, construction and installation of the displays.",
+      "images": [
+        [
+          {
+            "caption": "Lace umbrella installed at Kensington Palace",
+            "url": "images/work/loop/kp_photo.jpg"
+          },
+          {
+            "caption": "Render of the lace umbrella before production.",
+            "url": "images/work/loop/kp_render.jpg"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "rca-2",
+      "title": "Show design & Tutoring",
+      "subtitle": "Royal College of Art",
+      "secondSubtitle": "2013 - 2016",
+      "tags": ["RCA"],
+      "thumbnail": "images/thumbs/rca_2.jpg",
+      "mainCopy": "From 2013 to 2016 I was in charge of coordinating and designing the IDE Work in Progress and Degree Show exhibitions at the Royal College of Art. This involved recurring tutorials withall 40+ students, assessing each exhibitor’s requirements and setting up general guidelines as well as defining the overall design. \n\nEach year, the approach to space design was different as the projects varied as well as the furniture construction and allocated gallery. \n\nFor the WIP shows, the focus was on second year group projects and first year chair designs. For the Final Shows, the focus was on individual graduation projects. The challenge was to create a display system and layout design that unified all projects in one coherent exhibition while still highlighting the individual contributions and values of each project. \n\nThis work was part of my involvement as a visiting tutor at the Royal College of Art and Imperial College London from September 2011 to 2017. \n\nI worked alongside first and second year students in the Innovation Design Engineering despartment with visiting students from 3 international universities: Keio (Tokyo), Pratt (New York) and Tsinghua (Beijing); in the Global Innovation Design department",
+      "images": [
+        [
+          { "url": "images/work/rca/show_1.jpg" },
+          { "url": "images/work/rca/show_2.jpg" },
+          { "url": "images/work/rca/show_3.jpg" },
+          { "url": "images/work/rca/show_4.jpg" },
+          { "url": "images/work/rca/show_5.jpg" },
+          { "url": "images/work/rca/show_6.jpg" },
+          { "url": "images/work/rca/show_7.jpg" },
+          { "url": "images/work/rca/show_8.jpg" },
+          { "url": "images/work/rca/show_9.jpg" },
+          { "url": "images/work/rca/show_10.jpg" },
+          { "url": "images/work/rca/show_11.jpg" },
+          { "url": "images/work/rca/show_12.jpg" }
+        ]
+      ]
+    },
+    {
+      "id": "rca-1",
+      "title": "London Calling",
+      "subtitle": "Royal College of Art",
+      "secondSubtitle": "2013 - 2015",
+      "tags": ["RCA"],
+      "thumbnail": "images/thumbs/rca_1.png",
+      "mainCopy": "From 2013 to 2015, I led a short module for students on the Global Innovation Design course. This intense one-week unit served as an introduction for visiting MA students from partner institutions—New York’s Pratt Institute, Keio University, Tokyo/Yokohama and Tsinghua University, Beijing—to the city and the programme curriculum. \n\nThrough a series of seminars, group tutorials and spatial interventions, I encouraged students to use experience and exploration as an opportunity to develop their critical thinking and enrich their design practice.\n\nThis work was part of my involvement as a visiting tutor at the Royal College of Art and Imperial College London from September 2011 to 2017. \n\nI worked alongside first and second year students in the Innovation Design Engineering despartment with visiting students from 3 international universities: Keio (Tokyo), Pratt (New York) and Tsinghua (Beijing); in the Global Innovation Design department",
+      "images": [
+        [
+          { "url": "images/work/rca/gid_1.png" }
+        ],
+        [
+          { "url": "images/work/rca/gid_2.png" },
+          { "url": "images/work/rca/gid_3.png" }
+        ]
+      ]
+    }
+  ],
+  "homeRows": [
+    {
+      "items": [
+        {
+          "flex": 2,
+          "projectId": "rca-2"
+        },
+        {
+          "flex": 1,
+          "projectId": "rca-1"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "flex": 4,
+          "projectId": "loop-4"
+        },
+        {
+          "flex": 3,
+          "projectId": "loop-3"
+        },
+        {
+          "flex": 2,
+          "projectId": "loop-2"
+        },
+        {
+          "flex": 1,
+          "projectId": "loop-1"
+        }
+      ]
+    }  
+    ]
+}
